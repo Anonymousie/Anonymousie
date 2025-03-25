@@ -1,6 +1,3 @@
-<p align="center">   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Anonymousei!;Welcome+to+my+GitHub+Profile!" /> 
-</p>
 ### 👨‍💻 Welcome to My Cyber Domain
 
 <p align="center">
@@ -10,7 +7,12 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/Sv1WbJm3Q3P6E/giphy.gif" width="400px" />
 </p>
 
 ---
@@ -81,6 +83,4 @@ $ connect --me
 🚀 I'm on a mission to **learn, build, break, and secure**. If you're into cybersecurity, ethical hacking, or just **exploring the digital world**, let's connect and grow together!
 
 **"The best way to predict the future is to create it."** - Alan Kay  
-
-
 
