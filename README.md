@@ -1,3 +1,8 @@
+<p align="center">   
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Lyndon+Domini+Catan!;Welcome+to+my+GitHub+Profile!" /> 
+</p>
+
+
 ### 👨‍💻 Welcome to My Cyber Domain
 
 <p align="center">
